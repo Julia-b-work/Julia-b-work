@@ -1,7 +1,7 @@
 # Hey, I'm Julia 👋
 
 Computer engineering student at UFSCar. I build things with Python, C/C++, and
-Rust — mostly where LLMs meet real software.
+Rust
 
 ## Projects
 
@@ -12,7 +12,7 @@ Rust — mostly where LLMs meet real software.
 
 ## Where I'm headed
 
-The intersection of AI and systems — compilers, LLMs, and the space between
+The intersection of AI and systems: compilers, LLMs, and the space between
 them. Open to freelance and internship opportunities.
 
 [portfolio-6rx8.onrender.com](https://portfolio-6rx8.onrender.com)
